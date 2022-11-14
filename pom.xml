@@ -17,7 +17,7 @@
     <name>parent</name>
 
     <properties>
-        <spring.version>4.2.4.RELEASE</spring.version>
+        <spring.version>4.2.7.RELEASE</spring.version>
         <jetty.version>9.1.4.v20140401</jetty.version>
         <jackson.version>2.4.4</jackson.version>
         <logback.version>1.1.7</logback.version>
